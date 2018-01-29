@@ -1,6 +1,8 @@
 # Correfoc
 
 [![Build Status](https://travis-ci.org/pepibumur/correfoc.svg?branch=master)](https://travis-ci.org/pepibumur/correfoc)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ed555ff9fdbbb9f1b84e/maintainability)](https://codeclimate.com/github/pepibumur/correfoc/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ed555ff9fdbbb9f1b84e/test_coverage)](https://codeclimate.com/github/pepibumur/correfoc/test_coverage)
 
 Command line tool that generates insightful data from Xcode builds
 
