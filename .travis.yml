@@ -12,4 +12,4 @@ bundler_args: --without development
 cache: bundler
 addons:
   code_climate:
-    repo_token: xxx
+    repo_token: 7752db32522c9674f3fd7a2b56fef7e202900ef8c2602104250678eb44d1a164
